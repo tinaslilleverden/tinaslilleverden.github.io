@@ -9,6 +9,11 @@ h1 {
     margin:10px;
 }
 
+h2 {
+    color:crimson;
+    font-size:large;
+}
+
 ul {
     position: sticky;
     top: 0;
@@ -133,3 +138,24 @@ body {
     }
 }
 
+.om-nettsiden {
+    color:crimson;
+    text-align:center;
+    font-size: medium;
+    font-family: serif;
+    background-color:rgb(255, 159, 194);
+    padding: 25px;
+    border-style:dotted;
+    border-color:crimson;
+}
+
+.questions {
+    color:crimson;
+    text-align: center;
+    padding: 25px;
+    font-size:medium;
+    background-color: rgb(196, 240, 110);
+    border-style:dashed;
+    border-color:crimson;
+    border-radius: 50px;
+}
