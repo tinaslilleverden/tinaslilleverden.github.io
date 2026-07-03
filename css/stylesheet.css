@@ -109,8 +109,6 @@ body {
     align-content:stretch;
     text-align:center;
     gap:0px;
-    border-style:groove;
-    border-color:crimson;
 }
 
 .container div {
